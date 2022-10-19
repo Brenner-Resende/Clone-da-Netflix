@@ -6,5 +6,6 @@ Principais recursos utilizados no [CSS]:
 - Grid,
 - Flexbox,
 - Media Queries
+
 Principais recursos utilizados no [JavaScript]:
 - Manipulação de DOM
